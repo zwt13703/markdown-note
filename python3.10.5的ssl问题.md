@@ -77,6 +77,9 @@ import ssl
 ```
 ### 参考文档：
 [掘金-踩坑小结：Linux安装python环境 、安装OpenSSL](https://juejin.cn/post/7091573912428871710)
+
 [CSDN-centos7 python3.12.1 报错 No module named _ssl，坑我几个小时](https://blog.csdn.net/Amio_/article/details/126716818)
+
 [51CTO博客-python3.10带openssl](https://blog.51cto.com/huwei555/6140266)
+
 [CSDN-python3.10及以上版本编译安装ssl模块](https://blog.csdn.net/ye__mo/article/details/129436629)
